@@ -42,4 +42,4 @@ I got a more accurate light curve, which was the main aim, and I mostly left it 
 I could have spent mmore time making the code work with the simulated data, though it would have needed more manual corrections than ideal.
 The most important was that I managed to get the analysis programs to work as they should, and with better data, some better results would have been possible to obtain.
 
-My initial projec report is also in the repository as the PDF file.
+My initial project report is also in the repository as the PDF file.
